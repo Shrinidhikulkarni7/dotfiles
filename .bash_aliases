@@ -2,6 +2,7 @@
 alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
+alias exa='exa --long --header --git'
 
 # navigation aliases
 alias ..="cd .."
